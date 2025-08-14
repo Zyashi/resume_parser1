@@ -1,0 +1,5 @@
+Flask
+spacy
+pdfplumber
+psycopg2-binary
+python-dotenv
