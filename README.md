@@ -22,6 +22,14 @@ A **Python-based Resume Parser** that automatically extracts **key candidate det
 
 ---
 
+### Upload Page
+![Upload Page](screenshots/upload_page2.png)
+
+### Prediction Result
+![Prediction Result](screenshots/result_page2.png)
+
+---
+
 ## 📦 Installation
 
 1. **Clone the repository**
